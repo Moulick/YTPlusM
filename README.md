@@ -214,6 +214,10 @@ First release, added YTweaks, Gonerino and YouSpeed injectable
 
 ## Special thanks
 This project is alive **only** thanks to those guys:
+
+
 <a href="https://github.com/dayanch96">Dayanch96</a>: **creator of YTPlus**
+
+
 <a href="https://www.reddit.com/u/shinewake/s/ZeFbBOkUAa">shinewake</a>: **patcher of YTPlus 5.2.1 (he removed Patreon DRM)**
 
