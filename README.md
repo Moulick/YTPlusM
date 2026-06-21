@@ -130,7 +130,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 **If you don't have Telegram/want another version of YouTube:**
 > [!NOTE]
-> For this guide make sure to disable all adblocks you have (NextDNS, ADGuard, Brave Shields, uBlock Origin etc.)
+> For this make sure to disable all adblocks you have (NextDNS, ADGuard, Brave Shields, uBlock Origin etc.)
 
 1. Open your browser and search "Decrypt Day"
 2. Click the first link (It should be like decrypt . day the link, without spaces of course)
