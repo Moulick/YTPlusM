@@ -138,14 +138,17 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 4. Scroll down and click on "Download for free" to download the latest available version immediately, click on "Previous versions" instead to download older versions
 
 ## What Means YTPlusM and YTPlusM DIY
-<li><strong>YTPlusM:</strong></li>
+<details>
+ <summary><strong>YTPlusM</strong></summary>
 <p><strong>YTPlusM</strong> is a fork of <a href="https://github.com/dayanch96/YTLite">YTPlus</a> but with <strong>six more tweak integrated</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a>, <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>, <a href="https://github.com/arichornlover/YTLowContrastMode">YTLowContrastMode</a>, <a href="https://github.com/VasirakCalgux/VolumeBoostYT">VolumeBoostYT</a> and <a href="https://github.com/PoomSmart/YouGetCaption">YouGetCaption</a>). <strong>YTPlus releases will not have those extra tweaks, but only YTLite and YouPiP, YTUHD, Return-YouTube-Dislikes, YouQuality, DontEatMyContent and YTABConfig.</strong></p>
+</details>
 
 
-<li><strong>YTPlusM DIY:</strong></li>
+<details><strong>YTPlusM DIY</strong></li>
 <p><strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Fork this repo (to build YTPlusM with YTLite from 5.1 to 5.2.1, no 5.2, without DRM Patreon subscription); then go to Actions, workflows, "Create YouTube Plus app", make sure it is selected the branch "main" and create your total functioning IPA!</strong>
 View also <a href=#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions>How to build YouTube Plus and YTPlusM app using GitHub Actions</a> to learn how to create YTPlus and YTPlusM IPAs.
 <li><strong>IMPORTANT: read <a href="#must-read">this</a></strong></li></p>
+</details>
 
 PS: DIY=DO IT YOURSELF
 
