@@ -16,6 +16,8 @@ Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and Y
 
 ### Starting from now, I'll slowly remove download table and releases' files due to legal reason; I CREATED A NEW TELEGRAM CHANNEL FOR RELEASES! 👉[LINK TO JOIN](https://t.me/Mark02workshop_official)👈
 
+### I also created a new tweak for fix playback issues! You can find it in my new releases in the Telegram channel, in GitHub Actions and [in the official repository](https://github.com/Mark02-2012/YTPlaybackFix)
+
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Main Features](#main-features)
@@ -160,6 +162,8 @@ First release, added YTweaks, Gonerino and YouSpeed injectable
 Finally! YTLowContrastMode added, supporting also newest YT IPAs
 <li><strong>1.2 (May 11 2026):</strong></li>
 Added VolumeBoostYT and YouGetCaption
+<li><strong>1.3 (June 24 2026):</strong></li>
+Created by myself and added YTPlaybackFix
 
 ## Supported YouTube Version
 <ul>
@@ -249,7 +253,7 @@ Added VolumeBoostYT and YouGetCaption
 </details>
 
 <details>
- <summary><strong>NEW!</strong> YTLowContrastMode (only on YTPlusM versions)</summary>
+ <summary><strong></strong> YTLowContrastMode (only on YTPlusM versions)</summary>
  <p>YTLowContrastMode is a tweak developed by <a href="https://github.com/arichornlover">arichornlover</a>, a Tweak to make YT and YTMusic apps' Interface Low Contrast as possible and Easy on the eyes.</p>
  <p><strong>YTLowContrastMode preferences are not available</strong>; the tweak <strong>is already activated</strong> when you choose to inject it.</p>
  <p>Source code and additional information are available <a href="https://github.com/arichornlover/YTLowContrastMode">in arichornlover's repository</a>.</p>
@@ -257,7 +261,7 @@ Added VolumeBoostYT and YouGetCaption
 </details>
 
 <details>
- <summary><strong>NEW!</strong> VolumeBoostYT (only on YTPlusM versions)</summary>
+ <summary><strong></strong> VolumeBoostYT (only on YTPlusM versions)</summary>
  <p>VolumeBoostYT is a tweak developed by <a href="https://github.com/VasirakCalgux">VasirakCalgux</a> that provides an independent, gesture-based volume control for the YouTube app, completely separate from the system volume.</p>
  <p><strong>VolumeBoostYT preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/VasirakCalgux/VolumeBoostYT">in VasirakCalgux's repository</a>.</p>
@@ -265,11 +269,19 @@ Added VolumeBoostYT and YouGetCaption
 </details>
 
 <details>
- <summary><strong>NEW!</strong> YouGetCaption (only on YTPlusM versions)</summary>
+ <summary><strong></strong> YouGetCaption (only on YTPlusM versions)</summary>
  <p>YouGetCaption is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> that views and copies video caption from YouTube app from the video overlay.</p>
  <p><strong>YouGetCaption preferences</strong> are available in the <strong>Video overlay</strong> section under <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/PoomSmart/YouGetCaption">in PoomSmart's repository</a>.</p>
  <p><em>YouGetCaption is available only from <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_21.19.2(56)">YTPlusM 5.2.1 and 21.19.2</a> pre-built release, but you can build your version of YTPlusM now! View <a href=#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions>How to build YouTube Plus and YTPlusM app using GitHub Actions</a> and <a href=#what-means-ytplusm-and-ytplusm-diy>What Means YTPlusM and YTPlusM DIY</a></em></p>
+</details>
+
+<details>
+ <summary><strong>NEW!</strong> YTPlaybackFix (only on YTPlusM versions)</summary>
+ <p>YTPlaybackFix is a tweak developed by me that try to fix playback issues by refreshing the video every time the error appears</p>
+ <p><strong>YTPlaybackFix preferences</strong> for the moment are <strong>not available</strong>.</p>
+ <p>Source code and additional information are available <a href="https://github.com/Mark02-2012/YTPlaybackFix">in my repository</a>.</p>
+ <p><em>You can build your version of YTPlusM now! View <a href=#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions>How to build YouTube Plus and YTPlusM app using GitHub Actions</a> and <a href=#what-means-ytplusm-and-ytplusm-diy>What Means YTPlusM and YTPlusM DIY</a> (or <a href="https://t.me/Mark02workshop_official">join my telegram channel</a> to download the pre-built IPA with this new tweak)</em></p>
 </details>
 
 
